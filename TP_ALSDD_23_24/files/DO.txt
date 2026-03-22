@@ -1,0 +1,18 @@
+A delivery company in Algiers aims to automate its services. 
+Items to be delivered are defined by unique identifiers, 
+entry dates, delivery wilayas (1 to 58), weights, and statuses.
+The company uses motorcycles and vans, 
+each with unique identifiers and maximum capacities, managed through text files.
+
+To manage deliveries, linked lists (ItemL and VehicleL) and queues (MotoQ and VanQ) are utilized. 
+ItemL stores delivery items, while VehicleL manages vehicles. 
+MotoQ and VanQ are queues for motorcycles and vans, respectively, populated from text files.
+
+Tasks include adding new items to ItemL, managing vehicles in VehicleL, 
+and simulating delivery operations prioritizing items with earlier entry dates. 
+Motorcycles have specific delivery restrictions, while vans handle deliveries outside Algiers.
+
+Simulations also cover vehicle comebacks, return pickups, delivery cancellations,
+ and end-of-day processes involving file updates and report generation on deliveries,
+ returns, and new items.
+

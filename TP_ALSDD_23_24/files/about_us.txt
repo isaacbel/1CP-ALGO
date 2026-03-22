@@ -1,0 +1,14 @@
+   Belatrache Ishak and Yagoub Anes are students at the National School of Computer 
+ Science in Algiers, Algeria. Currently, they are in their first year, 
+ attending preparatory classes.
+
+   Ishak and Anes share a strong proficiency in coding, having successfully
+ completed numerous projects using both C and Python.
+
+ Their email addresses are:
+
+  Ishak: mi_belatrache@esi.com
+  Anes: ma_yagoube@esi.com
+
+
+

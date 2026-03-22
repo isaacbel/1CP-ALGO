@@ -1,0 +1,23 @@
+Identifier| Entry Date | Wilaya | Weight  |  Status
+       37 | 2022-03-16 |      1 |    2.50 | awaiting-delivery
+       38 | 2022-03-16 |      1 |    6.20 | awaiting-delivery
+       39 | 2022-03-16 |      1 |    7.50 | awaiting-delivery
+       42 | 2022-03-16 |     16 |    1.70 | awaiting-delivery
+       40 | 2022-03-16 |     16 |    4.50 | awaiting-delivery
+       43 | 2022-03-16 |     16 |    7.50 | awaiting-delivery
+      457 | 2022-03-16 |     16 |   12.50 | awaiting-delivery
+      456 | 2022-03-16 |     16 |   18.50 | awaiting-delivery
+       44 | 2022-03-16 |     17 |    1.80 | awaiting-delivery
+      459 | 2022-03-16 |     18 |    7.50 | awaiting-delivery
+      458 | 2022-03-16 |     18 |   20.50 | awaiting-delivery
+      460 | 2022-03-16 |     21 |    9.20 | awaiting-delivery
+      981 | 2022-03-16 |     21 |   23.00 | awaiting-delivery
+      567 | 2022-03-16 |     21 |   34.00 | awaiting-delivery
+      894 | 2022-03-16 |     24 |    9.50 | awaiting-delivery
+      907 | 2022-03-16 |     29 |    7.50 | awaiting-delivery
+      569 | 2022-03-16 |     29 |    9.20 | awaiting-delivery
+      619 | 2022-03-16 |     30 |    9.50 | awaiting-delivery
+      176 | 2022-03-16 |     30 |   12.20 | awaiting-delivery
+      349 | 2022-03-16 |     34 |   14.60 | awaiting-delivery
+      908 | 2022-03-16 |     45 |    7.80 | awaiting-delivery
+      239 | 2022-03-16 |     45 |    8.90 | awaiting-delivery
